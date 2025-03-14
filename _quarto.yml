@@ -1,19 +1,27 @@
+# Save!
+# quarto render -- updates the site
+# quarto preview (maybe; if you want to check before updating actual site)
+# Then add, commit, push
+
 project:
   type: website
 
 website:
-  title: "Nicholas Cassol-Pawson"
+  title: Nicholas Cassol-Pawson
   navbar:
     left:
       - href: index.qmd
-       text: Home # Removing this changes the title to the project title
-      - about.qmd
+        text: Home # Removing this changes the title to the project title
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme: cosmo # Template colors, text styles
+    theme: lux # Template colors, text styles
     css: styles.css # This needs CSS work to change
     toc: true
 
 editor: visual
 
+execute: 
+  freeze: auto # Caches the document — only rerenders old documents
