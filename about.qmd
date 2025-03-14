@@ -5,5 +5,8 @@ title: "About"
 About this site
 
 ```{r}
-1 + 1
+1 + 1 
 ```
+
+
+<!-- Change this page to whatever (or even delete) -->

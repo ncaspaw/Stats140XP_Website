@@ -1,0 +1,13 @@
+---
+title: "Projects"
+listing: 
+  type: table
+  contents: 
+    - "Projects/*.qmd"
+---
+
+<!-- ### Project 1 -->
+
+<!-- Include Images, project description; or create a bunch of sub documents -->
+
+<!-- ### Project 2 -->
