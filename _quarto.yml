@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Nicholas Cassol-Pawson"
+  navbar:
+    left:
+      - href: index.qmd
+       text: Home # Removing this changes the title to the project title
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo # Template colors, text styles
+    css: styles.css # This needs CSS work to change
+    toc: true
+
+editor: visual
+
