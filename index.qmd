@@ -14,7 +14,7 @@ about:
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-Download [my CV](/Resume_Latex.pdf)
+Download [my CV](/Resume_Website.pdf)
 
 ## Education
 
