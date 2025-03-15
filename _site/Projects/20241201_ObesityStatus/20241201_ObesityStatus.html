@@ -154,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="Mice_MissForest.png" class="img-fluid"></p>
-<p>I worked with a team of students to model various health measures to try to predict the obesity status of an individual. The data was not clean: it was missing about 8% of the values in each predictor, so we ran 3 separate imputation techniques on it: Amelia (multiple imputation; efficient), mice (multiple imputation; slowish), and missForest (single imputation; very slow — I forgot to have it update me on progress and thought my computer had crashed!).</p>
+<p>I worked with a team of students to model various health measures to try to predict the obesity status of an individual. The data was not clean: It was missing about 8% of the values in each predictor, so we ran 3 separate imputation techniques on it: Amelia (multiple imputation; efficient), mice (multiple imputation; slowish), and missForest (single imputation; very slow — I forgot to have it update me on progress and thought my computer had crashed!).</p>
 <p>We then ran several different models on each imputed data set: random forest, logistic regression, KNN, and principal-component discriminant analysis. (The last one was my invention and struggled mightily with this data.) We saw the best results from a random forest model using the missForest-imputed data, which correctly classified all but 5 of the more than 30,000 observations correctly.</p>
 <p>If you’re interested in reading more about this project, read our full report <a href="20241201_ObesityStatus.pdf">here</a>.</p>
 
