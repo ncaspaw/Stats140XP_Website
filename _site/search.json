@@ -39,7 +39,7 @@
     "href": "Projects/202403_SpotifyProject/202403_Spotify.html",
     "title": "Taylor Swift Song Popularity",
     "section": "",
-    "text": "I worked with a team of students to analyze data set consisting of Spotify streaming data of all of Taylor Swift’s songs, attempting to predict which songs were the most popular and determine the key indicators of popular songs.\nWe found that songs that were more recent, more acoustic (less electronic), louder, sadder-sounding, shorter, and on a first release album (non-deluxe or Taylor’s Version) were more likely to be popular.\nIf you’re interested in reading more about this project, read our full report here."
+    "text": "I worked with a team of students to analyze a data set consisting of Spotify streaming data of all of Taylor Swift’s songs, attempting to predict which songs were the most popular and determine the key indicators of popular songs.\nWe found that songs that were more recent, more acoustic (less electronic), louder, sadder-sounding, shorter, and on a first release album (non-deluxe or Taylor’s Version) were more likely to be popular.\nIf you’re interested in reading more about this project, read our full report here."
   },
   {
     "objectID": "Projects/20240609_IslandsProject/20240609_IslandsProject.html",
