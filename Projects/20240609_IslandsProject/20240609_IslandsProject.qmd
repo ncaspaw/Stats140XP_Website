@@ -1,0 +1,17 @@
+---
+title: "Effects of Caffeine on Cognitive and Physical Performance"
+author: Oliver Siu, Nicholas Cassol-Pawson, Emma Vidal, Romy Guo, Kanzah Jamil, Max Chalekson, Jesper White
+date: June 9, 2024
+author-title: "Authors"
+published-title: "Written"
+date-format: "MMMM D, YYYY"
+image: Coffee.jpg
+---
+
+![](Coffee.jpg)
+
+I worked with a team of students to assess the effects of caffeine on the performance of a group of simulated test subjects from the [Islands project](https://islands.smp.uq.edu.au/login.php).
+
+We conducted several experiments while controlling for confounding effects; although we found no statistically significant results. It was unclear whether our experiment was flawed, caffeine actually has no impact on the functions we tested, or if the Islanders were programmed to not be affected by caffeine in this way.
+
+If you're interested in reading more about this project, read our full report [here](IslandsProject.pdf).

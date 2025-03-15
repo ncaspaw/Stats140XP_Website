@@ -1,0 +1,15 @@
+---
+title: "Time Series Modelling of Quit Rate"
+author: Nicholas Cassol-Pawson
+date: April 18 2024
+author-title: "Author"
+published-title: "Written"
+date-format: "MMMM D, YYYY"
+image: Leaving.png
+---
+
+I fitted time series models on BLS data of the monthly number of people leaving a firm out of the total number of people employed by the firm. Using just linear and quadratic seasonally adjusted terms, I manage to capture most of the trends in the data, although the most recent downturn in resignations is not modelled accurately. 
+
+![](Graph.png)
+
+If you're interested in reading more about this project, read my full report [here](20240418_MonthlyQuitRate.pdf).

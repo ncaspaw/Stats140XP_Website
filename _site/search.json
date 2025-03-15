@@ -11,14 +11,42 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Taylor Swift Song Popularity\n\n\n\n\n\n\nNicholas Cassol-Pawson, Raymond Durr, Sarina Doss, and Michael Hao\n\n\nMar 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Effects of Caffeine on Cognitive and Physical Performance\n\n\n\n\n\n\nOliver Siu, Nicholas Cassol-Pawson, Emma Vidal, Romy Guo, Kanzah Jamil, Max Chalekson, Jesper White\n\n\nJun 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAdvanced Time Series Modelling of Precipitation Rates\n\n\n\n\n\n\nNicholas Cassol-Pawson\n\n\nJun 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nARIMA Modelling of Surface Temperature\n\n\n\n\n\n\nNicholas Cassol-Pawson\n\n\nMay 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Modelling of Quit Rate\n\n\n\n\n\n\nNicholas Cassol-Pawson\n\n\nApr 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaylor Swift Song Popularity\n\n\n\n\n\n\nNicholas Cassol-Pawson, Raymond Durr, Sarina Doss, and Michael Hao\n\n\nMar 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Projects/032024_Spotify.html",
-    "href": "Projects/032024_Spotify.html",
+    "objectID": "Projects/20240609_IslandsProject/20240609_IslandsProject.html",
+    "href": "Projects/20240609_IslandsProject/20240609_IslandsProject.html",
+    "title": "Effects of Caffeine on Cognitive and Physical Performance",
+    "section": "",
+    "text": "I worked with a team of students to assess the effects of caffeine on the performance of a group of simulated test subjects from the Islands project.\nWe conducted several experiments while controlling for confounding effects; although we found no statistically significant results. It was unclear whether our experiment was flawed, caffeine actually has no impact on the functions we tested, or if the Islanders were programmed to not be affected by caffeine in this way.\nIf you’re interested in reading more about this project, read our full report here."
+  },
+  {
+    "objectID": "Projects/202403_SpotifyProject/202403_Spotify.html",
+    "href": "Projects/202403_SpotifyProject/202403_Spotify.html",
     "title": "Taylor Swift Song Popularity",
     "section": "",
-    "text": "I worked with a team of students to analyze data set consisting of Spotify streaming data of all of Taylor Swift’s songs, attempting to predict which songs were the most popular and determine the key indicators of popular songs.\nWe found that songs that were more recent, more acoustic (less electronic), louder, sadder-sounding, shorter, and on a first release album (non-deluxe or Taylor’s Version) were more likely to be popular.\nIf you’re interested in reading more about this project, read our full report here.\nhere"
+    "text": "I worked with a team of students to analyze data set consisting of Spotify streaming data of all of Taylor Swift’s songs, attempting to predict which songs were the most popular and determine the key indicators of popular songs.\nWe found that songs that were more recent, more acoustic (less electronic), louder, sadder-sounding, shorter, and on a first release album (non-deluxe or Taylor’s Version) were more likely to be popular.\nIf you’re interested in reading more about this project, read our full report here."
+  },
+  {
+    "objectID": "Projects/20240418_MonthlyQuitRate/20240418_MonthlyQuitRate.html",
+    "href": "Projects/20240418_MonthlyQuitRate/20240418_MonthlyQuitRate.html",
+    "title": "Time Series Modelling of Quit Rate",
+    "section": "",
+    "text": "I fitted time series models on BLS data of the monthly number of people leaving a firm out of the total number of people employed by the firm. Using just linear and quadratic seasonally adjusted terms, I manage to capture most of the trends in the data, although the most recent downturn in resignations is not modelled accurately.\n\nIf you’re interested in reading more about this project, read my full report here."
+  },
+  {
+    "objectID": "Projects/20240607_Precipitation/20240607_Precipitation.html",
+    "href": "Projects/20240607_Precipitation/20240607_Precipitation.html",
+    "title": "Advanced Time Series Modelling of Precipitation Rates",
+    "section": "",
+    "text": "I fitted advanced time series models to precipitation totals data at BWI airport. Models used included ARIMA, ARCH, ETS, Holt-Winters, Neural-Net Auto Regression, Prophet, and a somewhat over-optimized combined fit model.\nI then forecasted the data 2 years out, showing a dampened version of the trend perceived in the data.\n\nIf you’re interested in reading more about this project, read my full report here."
+  },
+  {
+    "objectID": "Projects/20240517_SurfaceTemperature/20240517_SurfaceTemperature.html",
+    "href": "Projects/20240517_SurfaceTemperature/20240517_SurfaceTemperature.html",
+    "title": "ARIMA Modelling of Surface Temperature",
+    "section": "",
+    "text": "I fitted ARIMA and VAR models onto NOAA data of the global annual change in monthly surface temperature and NASA data of the average ocean surface temperature in a specific region that is highly affected by El Niño. The first model fit the surface temperature data very closely and the second approximated the El Niño data, but can still be improved to capture some of the dynamics.\n\nIf you’re interested in reading more about this project, read my full report here."
   },
   {
     "objectID": "index.html",

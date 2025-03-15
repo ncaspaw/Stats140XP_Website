@@ -1,0 +1,16 @@
+---
+title: "Advanced Time Series Modelling of Precipitation Rates"
+author: Nicholas Cassol-Pawson
+date: June 7 2024
+author-title: "Author"
+published-title: "Written"
+date-format: "MMMM D, YYYY"
+---
+
+I fitted advanced time series models to precipitation totals data at BWI airport. Models used included ARIMA, ARCH, ETS, Holt-Winters, Neural-Net Auto Regression, Prophet, and a somewhat over-optimized combined fit model. 
+
+I then forecasted the data 2 years out, showing a dampened version of the trend perceived in the data. 
+
+![](Graph.png)
+
+If you're interested in reading more about this project, read my full report [here](20240607_Precipitation.pdf).

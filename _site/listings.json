@@ -2,7 +2,11 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/Projects/032024_Spotify.html"
+      "/Projects/20240609_IslandsProject/20240609_IslandsProject.html",
+      "/Projects/20240607_Precipitation/20240607_Precipitation.html",
+      "/Projects/20240517_SurfaceTemperature/20240517_SurfaceTemperature.html",
+      "/Projects/20240418_MonthlyQuitRate/20240418_MonthlyQuitRate.html",
+      "/Projects/202403_SpotifyProject/202403_Spotify.html"
     ]
   }
 ]
