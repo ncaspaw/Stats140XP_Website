@@ -32,7 +32,7 @@
     "href": "Projects/20240418_MonthlyQuitRate/20240418_MonthlyQuitRate.html",
     "title": "Time Series Modelling of Quit Rate",
     "section": "",
-    "text": "I fitted time series models on BLS data of the monthly number of people leaving a firm out of the total number of people employed by the firm. Using just linear and quadratic seasonally adjusted terms, I manage to capture most of the trends in the data, although the most recent downturn in resignations is not modelled accurately.\n\nIf you’re interested in reading more about this project, read my full report here."
+    "text": "I fitted time series models on BLS data of the monthly number of people leaving a firm out of the total number of people employed by the firm. Using just linear and quadratic seasonally adjusted terms, I managed to capture most of the trends in the data, although the most recent downturn in resignations is not modelled accurately.\n\nIf you’re interested in reading more about this project, read my full report here."
   },
   {
     "objectID": "Projects/202403_SpotifyProject/202403_Spotify.html",
