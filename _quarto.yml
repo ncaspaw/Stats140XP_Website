@@ -8,6 +8,7 @@ project:
 
 website:
   title: Nicholas Cassol-Pawson
+  page-footer: "© 2025, Nicholas Cassol-Pawson"
   navbar:
     left:
       - href: index.qmd
