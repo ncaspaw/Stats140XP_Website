@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift Song Popularity"
-author: Nicholas Cassol-Pawson, Raymond Durr, Sarina Doss, and Michael Hao
+author: Nicholas Cassol-Pawson, Raymond Durr, Sarina Doss, Michael Hao
 date: March 2024
 author-title: "Authors"
 published-title: "Written"
