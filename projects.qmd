@@ -2,7 +2,10 @@
 title: "Projects"
 listing: 
   date-format: "MMM YYYY"
-
+  field-display-names: 
+    title: "Project"
+    author: "Authors"
+  sort: "date desc"
   type: grid
   contents: 
     - "Projects/032024_Spotify.qmd"
