@@ -1,0 +1,17 @@
+---
+title: "Machine Learning Algorithms on Missing Data"
+author: Raymond Durr, Emma Vidal, Nicholas Cassol-Pawson, Albert Carreno, Vinuk Ekanayake
+date: December 15, 2024
+author-title: "Authors"
+published-title: "Written"
+date-format: "MMMM D, YYYY"
+image: Mice_MissForest.png
+---
+
+![](Mice_MissForest.png)
+
+I worked with a team of students to model various health measures to try to predict the obesity status of an individual. The data was not clean: it was missing about 8% of the values in each predictor, so we ran 3 separate imputation techniques on it: Amelia (multiple imputation; efficient), mice (multiple imputation; slowish), and missForest (single imputation; very slow — I forgot to have it update me on progress and thought my computer had crashed!).
+
+We then ran several different models on each imputed data set: random forest, logistic regression, KNN, and principal-component discriminant analysis. (The last one was my invention and struggled mightily with this data.) We saw the best results from a random forest model using the missForest-imputed data, which correctly classified all but 5 of the more than 30,000 observations correctly. 
+
+If you're interested in reading more about this project, read our full report [here](20241201_ObesityStatus.pdf).
