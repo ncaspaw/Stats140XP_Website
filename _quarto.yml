@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: lux # Template colors, text styles
+    theme: morph # Template colors, text styles: darkly, lumen, morph
     css: styles.css # This needs CSS work to change
     toc: true
 

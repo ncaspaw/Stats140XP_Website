@@ -1,3 +1,4 @@
 ---
-title: "project1"
+title: "Project 1"
+author: Nicholas Cassol-Pawson
 ---
