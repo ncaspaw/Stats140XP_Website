@@ -20,7 +20,7 @@ website:
 format:
   html:
     theme: 
-      light: [morph, theme-light.scss] # Template colors, text styles: darkly, lumen, morph
+      light: [lightly, theme-light.scss] # Template colors, text styles: darkly, lumen, morph
       dark: [darkly, theme-dark.scss]
 
     css: styles.css # This needs CSS work to change
