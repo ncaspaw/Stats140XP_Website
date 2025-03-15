@@ -25,7 +25,7 @@
     "href": "Projects/20240607_Precipitation/20240607_Precipitation.html",
     "title": "Advanced Time Series Modelling of Precipitation Rates",
     "section": "",
-    "text": "I fitted advanced time series models to precipitation totals data at BWI airport. Models used included ARIMA, ARCH, ETS, Holt-Winters, Neural-Net Auto Regression, Prophet, and a somewhat over-optimized combined fit model.\nI then forecasted the data 2 years out, showing a dampened version of the trend perceived in the data.\n\nIf you’re interested in reading more about this project, read my full report here."
+    "text": "I fitted advanced time series models to precipitation totals data at BWI airport. Models used included ARIMA, ARCH, ETS, Holt-Winters, Neural-Net Auto Regression, Prophet, and a somewhat over-optimized combined-fit model.\nI then forecasted the data 2 years out, showing a dampened version of the trend perceived in the data.\n\nIf you’re interested in reading more about this project, read my full report here."
   },
   {
     "objectID": "Projects/20240418_MonthlyQuitRate/20240418_MonthlyQuitRate.html",
