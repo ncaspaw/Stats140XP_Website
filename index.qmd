@@ -12,7 +12,7 @@ about:
       url: "mailto:ncp1013@ucla.edu"
 ---
 
-I am a fourth year undergraduate at UCLA, double majoring in Business Economics and Statistics & Data Science. 
+I am a fourth year undergraduate at UCLA, double majoring in Business Economics with Statistics & Data Science. 
 
 Download [my CV](/Resume_Website.pdf)
 
