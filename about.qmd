@@ -2,11 +2,12 @@
 title: "About"
 ---
 
-About this site
+I am a native of Washington, DC, but have spent the past four years basking in the sunny weather of Los Angeles. 
 
-```{r}
-1 + 1 
-```
+I have a strong background in R, having been trained in the Tidyverse packages (although I am firmly of the belief that base R plots are just nicer looking than ggplots) and strong familiarity with working with time series in R. I also have a foundation in Python and can code in C++.
 
+In terms of spoken languages, I can understand Portuguese fluently and speak a few words of it, have a decent grasp of Spanish, and a beginner's level of German (up to the Goethe A2 certificate).
 
-<!-- Change this page to whatever (or even delete) -->
+In my — at this point rather limited — free time, I like to run, backpack, and read: I am currently working my way through John Le Carré's George Smiley series. 
+
+![Backpacking in Santa Fe](SantaFe.jpeg)

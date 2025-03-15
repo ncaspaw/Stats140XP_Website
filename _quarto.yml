@@ -19,7 +19,10 @@ website:
 
 format:
   html:
-    theme: morph # Template colors, text styles: darkly, lumen, morph
+    theme: 
+      light: [morph, theme-light.scss] # Template colors, text styles: darkly, lumen, morph
+      dark: [darkly, theme-dark.scss]
+
     css: styles.css # This needs CSS work to change
     toc: true
 
