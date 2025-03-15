@@ -14,7 +14,7 @@ about:
 
 I am a fourth year undergraduate at UCLA, double majoring in Business Economics with Statistics & Data Science. 
 
-Download [my CV](/Resume_Website.pdf)
+Download [my CV](/Resume_Website.pdf).
 
 ## Education
 
