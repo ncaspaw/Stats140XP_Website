@@ -14,18 +14,18 @@
     "text": "Machine Learning Algorithms on Missing Data\n\n\n\n\n\n\nRaymond Durr, Emma Vidal, Nicholas Cassol-Pawson, Albert Carreno, Vinuk Ekanayake\n\n\nDec 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of Caffeine on Cognitive and Physical Performance\n\n\n\n\n\n\nOliver Siu, Nicholas Cassol-Pawson, Emma Vidal, Romy Guo, Kanzah Jamil, Max Chalekson, Jesper White\n\n\nJun 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAdvanced Time Series Modelling of Precipitation Rates\n\n\n\n\n\n\nNicholas Cassol-Pawson\n\n\nJun 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nARIMA Modelling of Surface Temperature\n\n\n\n\n\n\nNicholas Cassol-Pawson\n\n\nMay 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Modelling of Quit Rate\n\n\n\n\n\n\nNicholas Cassol-Pawson\n\n\nApr 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaylor Swift Song Popularity\n\n\n\n\n\n\nNicholas Cassol-Pawson, Raymond Durr, Sarina Doss, and Michael Hao\n\n\nMar 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Projects/20240609_IslandsProject/20240609_IslandsProject.html",
-    "href": "Projects/20240609_IslandsProject/20240609_IslandsProject.html",
-    "title": "Effects of Caffeine on Cognitive and Physical Performance",
+    "objectID": "Projects/20241201_ObesityStatus/20241201_ObesityStatus.html",
+    "href": "Projects/20241201_ObesityStatus/20241201_ObesityStatus.html",
+    "title": "Machine Learning Algorithms on Missing Data",
     "section": "",
-    "text": "I worked with a team of students to assess the effects of caffeine on the performance of a group of simulated test subjects from the Islands project.\nWe conducted several experiments while controlling for confounding effects; although we found no statistically significant results. It was unclear whether our experiment was flawed, caffeine actually has no impact on the functions we tested, or if the Islanders were programmed to not be affected by caffeine in this way.\nIf you’re interested in reading more about this project, read our full report here."
+    "text": "I worked with a team of students to model various health measures to try to predict the obesity status of an individual. The data was not clean: it was missing about 8% of the values in each predictor, so we ran 3 separate imputation techniques on it: Amelia (multiple imputation; efficient), mice (multiple imputation; slowish), and missForest (single imputation; very slow — I forgot to have it update me on progress and thought my computer had crashed!).\nWe then ran several different models on each imputed data set: random forest, logistic regression, KNN, and principal-component discriminant analysis. (The last one was my invention and struggled mightily with this data.) We saw the best results from a random forest model using the missForest-imputed data, which correctly classified all but 5 of the more than 30,000 observations correctly.\nIf you’re interested in reading more about this project, read our full report here."
   },
   {
-    "objectID": "Projects/202403_SpotifyProject/202403_Spotify.html",
-    "href": "Projects/202403_SpotifyProject/202403_Spotify.html",
-    "title": "Taylor Swift Song Popularity",
+    "objectID": "Projects/20240607_Precipitation/20240607_Precipitation.html",
+    "href": "Projects/20240607_Precipitation/20240607_Precipitation.html",
+    "title": "Advanced Time Series Modelling of Precipitation Rates",
     "section": "",
-    "text": "I worked with a team of students to analyze data set consisting of Spotify streaming data of all of Taylor Swift’s songs, attempting to predict which songs were the most popular and determine the key indicators of popular songs.\nWe found that songs that were more recent, more acoustic (less electronic), louder, sadder-sounding, shorter, and on a first release album (non-deluxe or Taylor’s Version) were more likely to be popular.\nIf you’re interested in reading more about this project, read our full report here."
+    "text": "I fitted advanced time series models to precipitation totals data at BWI airport. Models used included ARIMA, ARCH, ETS, Holt-Winters, Neural-Net Auto Regression, Prophet, and a somewhat over-optimized combined fit model.\nI then forecasted the data 2 years out, showing a dampened version of the trend perceived in the data.\n\nIf you’re interested in reading more about this project, read my full report here."
   },
   {
     "objectID": "Projects/20240418_MonthlyQuitRate/20240418_MonthlyQuitRate.html",
@@ -35,11 +35,18 @@
     "text": "I fitted time series models on BLS data of the monthly number of people leaving a firm out of the total number of people employed by the firm. Using just linear and quadratic seasonally adjusted terms, I manage to capture most of the trends in the data, although the most recent downturn in resignations is not modelled accurately.\n\nIf you’re interested in reading more about this project, read my full report here."
   },
   {
-    "objectID": "Projects/20240607_Precipitation/20240607_Precipitation.html",
-    "href": "Projects/20240607_Precipitation/20240607_Precipitation.html",
-    "title": "Advanced Time Series Modelling of Precipitation Rates",
+    "objectID": "Projects/202403_SpotifyProject/202403_Spotify.html",
+    "href": "Projects/202403_SpotifyProject/202403_Spotify.html",
+    "title": "Taylor Swift Song Popularity",
     "section": "",
-    "text": "I fitted advanced time series models to precipitation totals data at BWI airport. Models used included ARIMA, ARCH, ETS, Holt-Winters, Neural-Net Auto Regression, Prophet, and a somewhat over-optimized combined fit model.\nI then forecasted the data 2 years out, showing a dampened version of the trend perceived in the data.\n\nIf you’re interested in reading more about this project, read my full report here."
+    "text": "I worked with a team of students to analyze data set consisting of Spotify streaming data of all of Taylor Swift’s songs, attempting to predict which songs were the most popular and determine the key indicators of popular songs.\nWe found that songs that were more recent, more acoustic (less electronic), louder, sadder-sounding, shorter, and on a first release album (non-deluxe or Taylor’s Version) were more likely to be popular.\nIf you’re interested in reading more about this project, read our full report here."
+  },
+  {
+    "objectID": "Projects/20240609_IslandsProject/20240609_IslandsProject.html",
+    "href": "Projects/20240609_IslandsProject/20240609_IslandsProject.html",
+    "title": "Effects of Caffeine on Cognitive and Physical Performance",
+    "section": "",
+    "text": "I worked with a team of students to assess the effects of caffeine on the performance of a group of simulated test subjects from the Islands project.\nWe conducted several experiments while controlling for confounding effects; although we found no statistically significant results. It was unclear whether our experiment was flawed, caffeine actually has no impact on the functions we tested, or if the Islanders were programmed to not be affected by caffeine in this way.\nIf you’re interested in reading more about this project, read our full report here."
   },
   {
     "objectID": "Projects/20240517_SurfaceTemperature/20240517_SurfaceTemperature.html",
@@ -53,7 +60,7 @@
     "href": "index.html",
     "title": "Nicholas Cassol-Pawson",
     "section": "",
-    "text": "I am a fourth year undergraduate at UCLA, majoring in Business Economics and Statistics & Data Science.\nDownload my CV"
+    "text": "I am a fourth year undergraduate at UCLA, double majoring in Business Economics and Statistics & Data Science.\nDownload my CV"
   },
   {
     "objectID": "index.html#education",
@@ -68,5 +75,12 @@
     "title": "Nicholas Cassol-Pawson",
     "section": "Current Work",
     "text": "Current Work\nUCLA Department of Epidemiology | Undergraduate Research Assistant | June 2023 - Present\nUCLA Department of Economics | Reader | January 2025 - Present\nMilitary Health Economics and Policy Research Lab (Uniformed Services University) | Research Assistant | July 2024 - September 2024\nBruinLife | Copy Editor | October 2021 - Present"
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "Nicholas Cassol-Pawson",
+    "section": "Recent Work",
+    "text": "Recent Work\nUCLA Department of Epidemiology | Undergraduate Research Assistant | June 2023 - Present\nUCLA Department of Economics | Reader | January 2025 - Present\nMilitary Health Economics and Policy Research Lab (Uniformed Services University) | Research Assistant | July 2024 - September 2024\nBruinLife | Copy Editor | October 2021 - Present"
   }
 ]

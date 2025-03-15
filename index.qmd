@@ -12,7 +12,7 @@ about:
       url: "mailto:ncp1013@ucla.edu"
 ---
 
-I am a fourth year undergraduate at UCLA, majoring in Business Economics and Statistics & Data Science. 
+I am a fourth year undergraduate at UCLA, double majoring in Business Economics and Statistics & Data Science. 
 
 Download [my CV](/Resume_Website.pdf)
 
@@ -22,7 +22,7 @@ Download [my CV](/Resume_Website.pdf)
 
 B.A. in Business Economics and B.S. in Statistics & Data Science | September 2021 - June 2025
 
-## Current Work
+## Recent Work
 
 **UCLA Department of Epidemiology** | Undergraduate Research Assistant | June 2023 - Present
 
