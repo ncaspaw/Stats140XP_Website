@@ -1,13 +1,11 @@
 ---
 title: "Projects"
 listing: 
-  type: table
+  date-format: "MMM YYYY"
+
+  type: grid
   contents: 
-    - "Projects/*.qmd"
+    - "Projects/032024_Spotify.qmd"
 ---
 
-<!-- ### Project 1 -->
 
-<!-- Include Images, project description; or create a bunch of sub documents -->
-
-<!-- ### Project 2 -->

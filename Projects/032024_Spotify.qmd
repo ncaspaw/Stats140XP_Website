@@ -1,0 +1,15 @@
+---
+title: "Taylor Swift Song Popularity"
+author: Nicholas Cassol-Pawson, Raymond Durr, Sarina Doss, and Michael Hao
+date: March 2024
+date-format: "MMMM YYYY"
+image: TaylorSwift.jpeg
+---
+
+![](TaylorSwift.jpeg)
+
+I worked with a team of students to analyze data set consisting of Spotify streaming data of all of Taylor Swift's songs, attempting to predict which songs were the most popular and determine the key indicators of popular songs. 
+
+We found that songs that were more recent, more acoustic (less electronic), louder, sadder-sounding, shorter, and on a first release album (non-deluxe or Taylor's Version) were more likely to be popular. 
+
+If you're interested in reading more about this project, read our full report [here](/032024_SpotifyProject).
