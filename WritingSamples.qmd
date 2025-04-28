@@ -9,4 +9,5 @@ listing:
   type: table
   contents: 
     - "WritingSamples/20250307_OpEd/OpEd.qmd"
+    - "WritingSamples/20250214_ExecutiveSummary/ExecutiveSummary.qmd"
 ---

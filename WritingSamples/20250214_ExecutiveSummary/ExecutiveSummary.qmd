@@ -1,0 +1,11 @@
+---
+title: "Executive Summary of Sale of US Steel"
+author: Nicholas Cassol-Pawson
+date: February 14 2025
+author-title: "Author"
+published-title: "Written"
+date-format: "MMMM D, YYYY"
+#image: Feb2025_SurfTemp.png
+---
+
+As part of an advanced writing course I took in my senior year, I had to write an executive summary of an issue in the world of business, summarizing the problem and going through potential solutions for it. I wrote about the attempted takeover of US Steel by Nippon Steel and the interests preventing it from happening. I further explored a solution in the related [op ed](../20250307_OpEd/OpEd.qmd) that I wrote. My summary can be found [here](20250214_ExecutiveSummary.pdf).
