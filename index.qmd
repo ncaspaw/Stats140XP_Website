@@ -12,7 +12,7 @@ about:
       url: "mailto:ncp1013@ucla.edu"
 ---
 
-I am a fourth year undergraduate at UCLA, double majoring in Business Economics with Statistics & Data Science. Test
+I am a fourth year undergraduate at UCLA, double majoring in Business Economics with Statistics & Data Science.
 
 Download [my resume](/NicholasCassol-Pawson_Resume.pdf).
 
@@ -26,7 +26,7 @@ B.A. in Business Economics and B.S. in Statistics & Data Science \| September 20
 
 **UCLA Department of Epidemiology** \| Undergraduate Research Assistant \| June 2023 - Present
 
-**UCLA Department of Economics** \| Reader \| January 2025 - Present
+**UCLA Department of Economics** \| Reader \| January 2025 - March 2025
 
 **Military Health Economics and Policy Research Lab (Uniformed Services University)** \| Research Assistant \| July 2024 - September 2024
 
