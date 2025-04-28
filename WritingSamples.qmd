@@ -1,0 +1,12 @@
+---
+# title: "Writing Samples"
+listing: 
+  date-format: "MMM YYYY"
+  field-display-names: 
+    title: "Project"
+    author: "Authors"
+  sort: "date desc"
+  type: grid
+  contents: 
+    - "Projects/202403_SpotifyProject/202403_Spotify.qmd"
+---
