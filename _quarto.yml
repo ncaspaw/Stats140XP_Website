@@ -16,7 +16,9 @@ website:
       - href: about.qmd
         text: About
       - href: projects.qmd
-        text: Projects
+        text: Data Analysis Projects
+      - href: WritingSamples.qmd
+        text: Writing Samples
 
 format:
   html:

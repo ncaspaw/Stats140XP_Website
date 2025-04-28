@@ -1,5 +1,5 @@
 ---
-# title: "Writing Samples"
+title: "Writing Samples"
 listing: 
   date-format: "MMM YYYY"
   field-display-names: 
