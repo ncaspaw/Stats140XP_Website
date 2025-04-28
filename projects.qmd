@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Data Analysis Projects"
 listing: 
   date-format: "MMM YYYY"
   field-display-names: 

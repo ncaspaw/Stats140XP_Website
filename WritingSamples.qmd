@@ -6,7 +6,7 @@ listing:
     title: "Project"
     author: "Authors"
   sort: "date desc"
-  type: grid
+  type: table
   contents: 
-    - "Projects/202403_SpotifyProject/202403_Spotify.qmd"
+    - "WritingSamples/20250307_OpEd/OpEd.qmd"
 ---

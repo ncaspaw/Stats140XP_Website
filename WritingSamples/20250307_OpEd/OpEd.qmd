@@ -1,0 +1,11 @@
+---
+title: "Op Ed on Sale of Nippon Steel"
+author: Nicholas Cassol-Pawson
+date: March 7 2025
+author-title: "Author"
+published-title: "Written"
+date-format: "MMMM D, YYYY"
+#image: Feb2025_SurfTemp.png
+---
+
+As part of an advanced writing course I took in my senior year, I had to write an opinion piece on the same topic as I wrote an executive summary, advocating for a position on an issue. In my case, I was writing about the Nippon Steel takeover of US Steel, and was advocating for President Trump to allow the deal to go through. [Here](20250307_OpEd.pdf) is what I had to say.

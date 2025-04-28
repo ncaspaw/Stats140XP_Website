@@ -8,7 +8,7 @@ date-format: "MMMM D, YYYY"
 image: Feb2025_SurfTemp.png
 ---
 
-I fitted ARIMA and VAR models onto NOAA data of the global annual change in monthly surface temperature and NASA data of the average ocean surface temperature in a specific region that is highly affected by El Niño. The first model fit the surface temperature data very closely and the second approximated the El Niño data, but can still be improved to capture some of the dynamics. 
+I fitted ARIMA and VAR models onto NOAA data of the global annual change in monthly surface temperature and NASA data of the average ocean surface temperature in a specific region that is highly affected by El Niño. The first model fit the surface temperature data very closely and the second approximated the El Niño data, but can still be improved to capture some of the dynamics.
 
 ![](Graph.png)
 
