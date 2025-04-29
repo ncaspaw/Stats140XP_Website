@@ -1,0 +1,17 @@
+---
+title: "Data Analysis Projects"
+listing: 
+  date-format: "MMM YYYY"
+  field-display-names: 
+    title: "Project"
+    author: "Authors"
+  sort: "date desc"
+  type: grid
+  contents: 
+    - "Projects/202403_SpotifyProject/202403_Spotify.qmd"
+    - "Projects/20240609_IslandsProject/20240609_IslandsProject.qmd"
+    - "Projects/20240418_MonthlyQuitRate/20240418_MonthlyQuitRate.qmd"
+    - "Projects/20240517_SurfaceTemperature/20240517_SurfaceTemperature.qmd"
+    - "Projects/20240607_Precipitation/20240607_Precipitation.qmd"
+    - "Projects/20241201_ObesityStatus/20241201_ObesityStatus.qmd"
+---
