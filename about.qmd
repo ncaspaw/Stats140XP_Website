@@ -2,12 +2,12 @@
 title: "About"
 ---
 
-I am a native of Washington, DC, but have spent the past four years basking in the sunny weather of Los Angeles.
+I am a native of Washington, DC, but have spent the past four years calling sunny Los Angeles home while exploring the world through hiking trails and data alike.
 
-I have a strong background in R, having been trained in the Tidyverse packages (although I am firmly of the belief that base R plots are just nicer looking than ggplots) and am very familiar with working with time series in R. I also have a foundation in Python, can code in C++, bash around in SQL (preferred pronunciation order: "Squeal", "Sequel", "S-Q-L"), and at this point have probably produced more content in Latex than should strictly be considered healthy.
+I have a strong background in R, having been trained in the Tidyverse packages — although I find base R plots more *aes*thetically pleasing than ggplots — and am very familiar with working with time series in R. I also have a foundation in Python, can code in C++, bash around in SQL (preferred pronunciation order: "Squeal", "Sequel", "S-Q-L"), and at this point have probably produced more content in Latex than should strictly be considered healthy.
 
 In terms of spoken languages, I can understand Portuguese fluently (and even speak it to an extent), have a decent grasp of Spanish, and a beginner's level of German (up to the Goethe A2 certificate).
 
-In my — at this point rather limited — free time, I like to run, backpack, and read: I am currently working my way through John Le Carré's George Smiley series (latest update: halfway through the tomic *Honorable Schoolboy*).
+In my — currently rather limited — free time, I like to run, backpack, and read: I am currently working my way through John Le Carré's George Smiley series (latest update: about halfway through *The Honorable Schoolboy*, which is more of a tome than I had anticipated).
 
 ![Backpacking in Santa Fe; alas, the sunglasses are no longer with us](SantaFe.jpeg)
