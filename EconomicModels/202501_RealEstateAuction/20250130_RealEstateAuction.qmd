@@ -1,0 +1,10 @@
+---
+title: "Real Estate Auctions"
+author: Nicholas Cassol-Pawson
+date: January 2025
+author-title: "Author"
+published-title: "Written"
+date-format: "MMMM YYYY"
+---
+
+As part of a club project, I wrote up the economic theory to provide some bounds on prices that houses would sell for in a simulated real estate environment. I applied various aspects of auction theory to try to determine these price constraints, and provided some toy examples with different ratios of buyers to sellers to show what happened. The write up can be found [here](20250130_RealEstateAuction.pdf). 

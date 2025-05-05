@@ -137,7 +137,7 @@
     "href": "EconomicModels.html",
     "title": "Economic Models",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Authors\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nAuthors\n\n\n\n\n\n\nMay 2024\n\n\nFree Riding in a Military Alliance\n\n\nNicholas Cassol-Pawson\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Authors\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nAuthors\n\n\n\n\n\n\nJan 2025\n\n\nReal Estate Auctions\n\n\nNicholas Cassol-Pawson\n\n\n\n\nMay 2024\n\n\nFree Riding in a Military Alliance\n\n\nNicholas Cassol-Pawson\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "EconomicModels/202405_FreeRidingModel/202405_FreeRiding.html",
@@ -145,5 +145,12 @@
     "title": "Free Riding in a Military Alliance",
     "section": "",
     "text": "As part of a game theory course, I prepared a model of free riding in a military alliance. I created a payoff function for agents to invest a certain amount of money in the outcome of a war, grounding the costs in terms of real world motivators (both the financial incentive and a more opaque outcomes incentive). I then attempted to solve the model, but the math was too complicated and I got bogged down in a recursive differential equation. This led to an attempt to run a Monte Carlo simulation of the model, which unfortunately was unsuccessful. A write up of the model can be found here."
+  },
+  {
+    "objectID": "EconomicModels/202501_RealEstateAuction/20250130_RealEstateAuction.html",
+    "href": "EconomicModels/202501_RealEstateAuction/20250130_RealEstateAuction.html",
+    "title": "Real Estate Auctions",
+    "section": "",
+    "text": "As part of a club project, I wrote up the economic theory to provide some bounds on prices that houses would sell for in a simulated real estate environment. I applied various aspects of auction theory to try to determine these price constraints, and provided some toy examples with different ratios of buyers to sellers to show what happened. The write up can be found here."
   }
 ]

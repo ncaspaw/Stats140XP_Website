@@ -9,4 +9,5 @@ listing:
   type: table
   contents: 
     - "EconomicModels/202405_FreeRidingModel/202405_FreeRiding.qmd"
+    - "EconomicModels/202501_RealEstateAuction/20250130_RealEstateAuction.qmd"
 ---
