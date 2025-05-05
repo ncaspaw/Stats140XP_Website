@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
     "text": "I am a native of Washington, DC, but have spent the past four years calling sunny Los Angeles home while exploring the world through hiking trails and data alike.\nI have a strong background in R, having been trained in the Tidyverse packages — although I find base R plots more aesthetically pleasing than ggplots — and am very familiar with working with time series in R. I also have a foundation in Python, can code in C++, bash around in SQL (preferred pronunciation order: “Squeal”, “Sequel”, “S-Q-L”), and at this point have probably produced more content in Latex than should strictly be considered healthy.\nIn terms of spoken languages, I can understand Portuguese fluently (and even speak it to an extent), have a decent grasp of Spanish, and a beginner’s level of German (up to the Goethe A2 certificate).\nIn my — currently rather limited — free time, I like to run, backpack, and read: I am currently working my way through John Le Carré’s George Smiley series (latest update: about halfway through The Honorable Schoolboy, which is more of a tome than I had anticipated).\n\n\n\nBackpacking in Santa Fe; alas, the sunglasses are no longer with us"
   },
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Nicholas Cassol-Pawson",
     "section": "",
-    "text": "I am a fourth year undergraduate at UCLA, double majoring in Business Economics with Statistics & Data Science.\nOn this website you can find a bit about me, including samples of data analysis projects and writing that I have produced while at UCLA.\nDownload my resume."
+    "text": "I am a fourth year undergraduate at UCLA, double majoring in Business Economics with Statistics & Data Science.\nOn this website you can find a bit about me, including samples of data analysis projects, economic models, and writing that I have produced while at UCLA.\nDownload my resume."
   },
   {
     "objectID": "index.html#education",
@@ -131,5 +131,19 @@
     "title": "Executive Summary of Sale of US Steel",
     "section": "",
     "text": "As part of an advanced writing course I took in my senior year, I had to write an executive summary of an issue in the world of business, summarizing the problem and going through potential solutions for it. I wrote about the attempted takeover of US Steel by Nippon Steel and the interests preventing it from happening. I further explored a solution in the related op ed that I wrote. My summary can be found here."
+  },
+  {
+    "objectID": "EconomicModels.html",
+    "href": "EconomicModels.html",
+    "title": "Economic Models",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Authors\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nAuthors\n\n\n\n\n\n\nMay 2024\n\n\nFree Riding in a Military Alliance\n\n\nNicholas Cassol-Pawson\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "EconomicModels/202405_FreeRidingModel/202405_FreeRiding.html",
+    "href": "EconomicModels/202405_FreeRidingModel/202405_FreeRiding.html",
+    "title": "Free Riding in a Military Alliance",
+    "section": "",
+    "text": "As part of a game theory course, I prepared a model of free riding in a military alliance. I created a payoff function for agents to invest a certain amount of money in the outcome of a war, grounding the costs in terms of real world motivators (both the financial incentive and a more opaque outcomes incentive). I then attempted to solve the model, but the math was too complicated and I got bogged down in a recursive differential equation. This led to an attempt to run a Monte Carlo simulation of the model, which unfortunately was unsuccessful. A write up of the model can be found here."
   }
 ]

@@ -1,0 +1,12 @@
+---
+title: "Economic Models"
+listing: 
+  date-format: "MMM YYYY"
+  field-display-names: 
+    title: "Project"
+    author: "Authors"
+  sort: "date desc"
+  type: table
+  contents: 
+    - "EconomicModels/202405_FreeRidingModel/202405_FreeRiding.qmd"
+---

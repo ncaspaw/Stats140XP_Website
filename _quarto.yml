@@ -11,14 +11,16 @@ website:
   page-footer: "© 2025, Nicholas Cassol-Pawson"
   navbar:
     left:
-      - href: index.qmd
-        text: Home # Removing this changes the title to the project title
+      #- href: index.qmd
+       # text: Home # Removing this changes the title to the project title
       - href: about.qmd
         text: About
       - href: projects.qmd
         text: Data Analysis Projects
       - href: WritingSamples.qmd
         text: Writing Samples
+      - href: EconomicModels.qmd
+        text: Economic Models
 
 format:
   html:

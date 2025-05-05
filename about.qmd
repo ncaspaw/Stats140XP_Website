@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 I am a native of Washington, DC, but have spent the past four years calling sunny Los Angeles home while exploring the world through hiking trails and data alike.
