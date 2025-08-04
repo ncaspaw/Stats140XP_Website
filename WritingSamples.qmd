@@ -11,3 +11,5 @@ listing:
     - "WritingSamples/20250307_OpEd/OpEd.qmd"
     - "WritingSamples/20250214_ExecutiveSummary/ExecutiveSummary.qmd"
 ---
+
+Below, you can find two pieces of writing that I produced for a specialized business and public policy writing class, the capstone for my business economics degree. Both papers are on the same topic: the takeover of US Steel by Nippon Steel and its subsequent blocking by Presidents Biden and Trump. The executive summary provides more of a balanced analysis of the facts of the case and potential solutions to the standoff, while the op-ed advocates for permitting the sale. (In June 2025 President Trump allowed the sale to go through.)

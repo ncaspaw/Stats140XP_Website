@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,12 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-e1828af640799f82dccf85679a96157a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-68a7930cdca29cb3b5408d96696289d7.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -92,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">About Me</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./projects.html"> 
@@ -144,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I am a native of Washington, DC, but have spent the past four years calling sunny Los Angeles home while exploring the world through hiking trails and data alike.</p>
 <p>I have a strong background in R, having been trained in the Tidyverse packages — although I find base R plots more <em>aes</em>thetically pleasing than ggplots — and am very familiar with working with time series in R. I also have a foundation in Python, can code in C++, bash around in SQL (preferred pronunciation order: “Squeal”, “Sequel”, “S-Q-L”), and at this point have probably produced more content in Latex than should strictly be considered healthy.</p>
 <p>In terms of spoken languages, I can understand Portuguese fluently (and even speak it to an extent), have a decent grasp of Spanish, and a beginner’s level of German (up to the Goethe A2 certificate).</p>
-<p>In my — currently rather limited — free time, I like to run, backpack, and read: I am currently working my way through John Le Carré’s George Smiley series (latest update: about halfway through <em>The Honorable Schoolboy</em>, which is more of a tome than I had anticipated).</p>
+<p>In my — currently rather limited — free time, I like to run, backpack, and read: I have recently finished reading John Le Carré’s George Smiley series (I currently am reading <em>Karla’s Choice</em>, the novel written by his son to fill in the gap between <em>The Spy Who Came in from the Cold</em> and <em>Tinker, Tailor, Soldier, Spy</em>, which I have found to be very interesting — and so far a lot less about Karla than I would have expected, given the title).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="SantaFe.jpeg" class="img-fluid figure-img"></p>
@@ -381,8 +381,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -493,7 +491,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

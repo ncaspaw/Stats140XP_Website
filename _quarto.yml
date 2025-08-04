@@ -14,7 +14,7 @@ website:
       #- href: index.qmd
        # text: Home # Removing this changes the title to the project title
       - href: about.qmd
-        text: About
+        text: About Me
       - href: projects.qmd
         text: Data Analysis Projects
       - href: WritingSamples.qmd
