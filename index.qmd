@@ -14,7 +14,7 @@ about:
 
 I am a recent graduate of UCLA (June 2025), where I double majored in Business Economics and Statistics & Data Science.
 
-On this website you can find a bit [about me](/about.qmd), including samples of [data analysis projects](/projects.qmd), [economic models](/EconomicModels.qmd), and [writing](/WritingSamples.qmd) that I have produced while at UCLA.
+On this website you can find a bit [about me](/about.qmd), including samples of [data analysis projects](/projects.qmd), [economic models](/EconomicModels.qmd), and [writing](/WritingSamples.qmd) that I produced while at UCLA.
 
 Download [my resume](/NicholasCassol-Pawson_Resume.pdf).
 
