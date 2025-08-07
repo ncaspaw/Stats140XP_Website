@@ -10,6 +10,9 @@ about:
     - icon: envelope
       text: Email
       url: "mailto:ncp1013@ucla.edu"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nicholas-cassol-pawson-b39940255/
 ---
 
 I am a recent graduate of UCLA (June 2025), where I double majored in Business Economics and Statistics & Data Science.
