@@ -13,6 +13,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/nicholas-cassol-pawson-b39940255/
+    - icon: info-circle-fill
+      text: Orcid
+      url: https://orcid.org/0009-0008-8887-578X
 ---
 
 I am a recent graduate of UCLA (June 2025), where I double majored in Business Economics and Statistics & Data Science.
